@@ -1,6 +1,6 @@
 {
   "name": "vite-react-electron-template",
-  "version": "2.2.0",
+  "version": "0.0.1",
   "main": "dist-electron/main/index.js",
   "description": "Vite React Electron template.",
   "author": "Siykt <cnsiykt@163.com>",
